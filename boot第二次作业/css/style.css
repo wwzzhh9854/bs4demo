@@ -1,0 +1,41 @@
+
+.navstyle {
+    position: fixed;
+    background-color: #283643;
+    width: 12rem;
+    height: 100%;
+    top: 3.5rem;
+}
+.navstyle a {
+    padding-left: 2rem;
+    padding-right: 2rem;
+    height: 3rem;
+    line-height: 3rem;
+    color: #fff;
+    display: block;
+    text-decoration: none;
+}
+.nav-a {
+    background-color: #3c4248;
+}
+.navstyle a:hover{
+    background-color: #3c4248;
+}
+
+.bodystyle {
+    position: fixed;
+    top: 3.5rem;
+    left: 12rem;
+    right: 0;
+    bottom: 0;
+}
+
+.tablecss td,th{
+    border: 1px solid #dee2e6;
+}
+.h-six {
+    height: 3rem;
+    line-height: 3rem;
+    color: #6c757d;
+    border-bottom: 2px solid #e9ecef;
+}
